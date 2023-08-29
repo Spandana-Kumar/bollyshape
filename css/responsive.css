@@ -1,0 +1,23 @@
+@media  (max-width: 991px) {
+.child{
+    position: inherit;
+    right: auto;
+}
+}
+/* @media  (max-width: 991px) {
+    .child1{
+        position: inherit;
+    }
+} */
+
+@media  (max-width: 991px) {
+    .container1{
+        width: 100%;
+        margin: 0%;
+        
+    }
+ 
+}
+
+
+    
